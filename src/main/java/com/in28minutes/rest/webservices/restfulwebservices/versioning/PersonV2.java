@@ -14,6 +14,7 @@ public class PersonV2 {
 
 	@Override
 	public String toString() {
+		System.out.println("ok");
 		return "PersonV2 [name=" + name + "]";
 	}
 }
